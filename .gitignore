@@ -57,6 +57,5 @@ gen
 .idea/muilt-part.iml
 .idea/workspace.xml
 
-.gitignore
-/*.iml
-/.idea
+**/*.iml
+**/.idea
